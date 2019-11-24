@@ -23,19 +23,19 @@
 	* This layer can switch to the fourth layer by holding the FN key.
 * The third and fourth layer are essentially copies of the first and second layer and offer the same functionalities, however the third and fourth layer have the F-keys and Num/Symbol keys swapped.
 
-# # Layer 0
+## Layer 0
 
 ![](https://i.imgur.com/9U9PaTw.png)
 
-# # Layer 1
+## Layer 1
 
 ![](https://i.imgur.com/rqqjiyn.png)
 
-# # Layer 2
+## Layer 2
 
 ![](https://i.imgur.com/A7YkrTF.png)
 
-# # Layer 3
+## Layer 3
 
 ![](https://i.imgur.com/sxJ1ocF.png)
 

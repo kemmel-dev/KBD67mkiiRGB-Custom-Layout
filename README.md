@@ -3,19 +3,19 @@ This repo holds the keymap file containing the custom layout for my KBD67mkiiRGB
 
 # Current Layout:
 
-# # Layer 0
+## Layer 0
 
 ![](https://i.imgur.com/9U9PaTw.png)
 
-# # Layer 1
+## Layer 1
 
 ![](https://i.imgur.com/rqqjiyn.png)
 
-# # Layer 2
+## Layer 2
 
 ![](https://i.imgur.com/A7YkrTF.png)
 
-# # Layer 3
+## Layer 3
 
 ![](https://i.imgur.com/sxJ1ocF.png)
 
