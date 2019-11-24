@@ -1,6 +1,8 @@
 # KBD67mkiiRGB-Custom-Layout
 This repo holds the keymap file containing the custom layout for my KBD67mkiiRGB.
 
+My current keymap can be found in the folder '4-layered-layout'
+
 # Current Layout:
 
 ## Layer 0
