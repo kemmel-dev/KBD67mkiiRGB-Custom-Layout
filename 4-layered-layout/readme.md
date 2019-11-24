@@ -8,7 +8,7 @@
 	* WASD to move your mouse up, left, down, right respectively.
 		* Q and E click left and right mouse respectively.
 		* R and F scroll mousewheel up and down respectively.
-	* IJKL act as up, left, down, right arrows respectively.
+	* OKL; act as up, left, down, right arrows respectively.
 	* UP/DOWN keys act as volume UP/DOWN
 	* LEFT/RIGHT keys act as previous/next track.
 	* The key below the calculator key launches 'This PC'
