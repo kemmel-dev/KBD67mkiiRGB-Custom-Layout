@@ -7,19 +7,19 @@ My current keymap can be found in the folder '4-layered-layout'
 
 ## Layer 0
 
-![](https://i.imgur.com/9U9PaTw.png)
+![](https://imgur.com/vOvWsyP.png)
 
 ## Layer 1
 
-![](https://i.imgur.com/rqqjiyn.png)
+![](https://imgur.com/GbaCXXX.png)
 
 ## Layer 2
 
-![](https://i.imgur.com/A7YkrTF.png)
+![](https://imgur.com/8l6wx1H.png)
 
 ## Layer 3
 
-![](https://i.imgur.com/sxJ1ocF.png)
+![](https://imgur.com/DwvfebN.png)
 
 # Layout description
 
