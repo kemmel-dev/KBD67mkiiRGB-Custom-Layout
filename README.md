@@ -1,7 +1,12 @@
 # KBD67mkiiRGB-Custom-Layout
-This repo holds the keymap file containing the custom layout for my KBD67mkiiRGB.
 
-My current keymap can be found in the folder '4-layered-layout'
+Installation instructions:
+
+- Import the .json file into https://config.qmk.fm/
+- Give the keymap a name
+- Click 'Compile'
+- Download the firmware after baking has finished.
+- Flash the firmware with QMK Configurator.
 
 # Current Layout:
 
